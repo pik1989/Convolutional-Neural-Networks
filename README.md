@@ -14,11 +14,11 @@ The dataset used in this project is here: https://drive.google.com/drive/folders
 
 ### Videos
 **1. End to End CNN**
-![Home Page](https://github.com/coletangsy/PowerBI_Airbnb_HK_market/raw/main/powerbi_pic/0001.jpg)
+![CNN](https://github.com/pik1989/Convolutional-Neural-Networks/raw/main/images/1-cnn.jpg)
 <br>
 
 **2. End to End Pre-Trained Models & Transfer Learning**
-![Descriptive Analysis](https://github.com/coletangsy/PowerBI_Airbnb_HK_market/raw/main/powerbi_pic/0002.jpg)
+![Pre-Trained](https://github.com/pik1989/Convolutional-Neural-Networks/raw/main/images/2-pretrained.jpg)
 <br>
 
 <br>
