@@ -14,7 +14,7 @@ The dataset used in this project is here: https://drive.google.com/drive/folders
 
 ### Videos
 **1. End to End CNN**
-![CNN](https://github.com/pik1989/Convolutional-Neural-Networks/raw/main/images/1-cnn.jpg)
+[![Alt text](https://github.com/pik1989/Convolutional-Neural-Networks/raw/main/images/1-cnn.jpg)](https://www.youtube.com/watch?v=58aFgtQRfhA)
 <br>
 
 **2. End to End Pre-Trained Models & Transfer Learning**
