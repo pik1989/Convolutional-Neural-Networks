@@ -22,6 +22,6 @@ The dataset used in this project is here: https://drive.google.com/drive/folders
 <br>
 
 <br>
-https://www.linkedin.com/in/satyajitpattnaik/
+
 #### Reach out to me
 [Linkedin](https://www.linkedin.com/in/satyajitpattnaik/)<br>   [Kaggle](https://www.kaggle.com/pattnaiksatyajit)<br>    [YouTube](https://www.youtube.com/c/SatyajitPattnaik/)
