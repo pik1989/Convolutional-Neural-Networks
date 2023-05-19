@@ -18,7 +18,7 @@ The dataset used in this project is here: https://drive.google.com/drive/folders
 <br>
 
 **2. End to End Pre-Trained Models & Transfer Learning**
-![Pre-Trained](https://github.com/pik1989/Convolutional-Neural-Networks/raw/main/images/2-pretrained.jpg)
+![Pre-Trained](https://github.com/pik1989/Convolutional-Neural-Networks/raw/main/images/2-pretrained.png)
 <br>
 
 <br>
